@@ -1128,6 +1128,8 @@ Chcete-li zobrazit nabídku „Audio Track“, změňte možnost „Spoof video 
   <string name="morphe_disable_fullscreen_ambient_mode_title">Deaktivovat Ambientní režim v celoobrazovkovém režimu</string>
   <string name="morphe_enhanced_ambient_mode_title">Vylepšený Ambientní režim</string>
   <string name="morphe_enhanced_ambient_mode_summary">Osvětlí celou stránku sledování a černé pruhy barvami videa namísto Ambientního režimu</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Intenzita světla</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Nastavuje intenzitu světla na stránce s hodinami a u černých pruhů</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Udržovat text čitelný</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Ztlumí světlo u jasných videí, aby text na stránce zůstal čitelný</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Ztmavit při posouvání</string>

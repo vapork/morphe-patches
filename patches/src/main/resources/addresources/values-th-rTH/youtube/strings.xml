@@ -1129,6 +1129,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">ปิดใช้งานโหมดแอมเบียนท์ในโหมดเต็มหน้าจอ</string>
   <string name="morphe_enhanced_ambient_mode_title">โหมดแอมเบียนท์แบบปรับปรุง</string>
   <string name="morphe_enhanced_ambient_mode_summary">ทำให้หน้าการรับชมและแถบสีดำทั้งหมดสว่างขึ้นตามวิดีโอ แทนที่โหมดแอมเบียนท์</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">ความแรงของแสง</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">ความแรงของแสงบนหน้าปัดนาฬิกาและแถบสีดำ</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">รักษาข้อความให้อ่านออก</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">ลดแสงสว่างในวิดีโอที่สว่างเกินไปเพื่อให้ข้อความบนหน้ายังคงอ่านออก</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">หรี่ไฟขณะเลื่อน</string>

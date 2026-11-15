@@ -1131,6 +1131,8 @@ API 키는 절대로 다른 사람과 공유해서는 안 됩니다. API 키에 
   <string name="morphe_disable_fullscreen_ambient_mode_title">전체 화면 앰비언트 모드 비활성화하기</string>
   <string name="morphe_enhanced_ambient_mode_title">향상된 앰비언트 모드</string>
   <string name="morphe_enhanced_ambient_mode_summary">앰비언트 모드 대신 동영상에 맞춰 시청 페이지 전체와 검은색 바에 조명을 비춥니다</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">빛 세기</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">워치 페이지와 검은색 바의 빛 세기</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">텍스트 가독성 유지</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">밝은 동영상의 조명을 낮춰 페이지의 텍스트 가독성을 유지합니다</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">스크롤 중 어둡게 하기</string>

@@ -1128,6 +1128,8 @@ OpenRouter.ai сайтын ачуу үчүн бул жерди басыңыз"</
   <string name="morphe_disable_fullscreen_ambient_mode_title">Толук экранда Ambient режимин өчүрүү</string>
   <string name="morphe_enhanced_ambient_mode_title">Жақшыртылган Ambient режими</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ambient режиминин ордуна бүткүл көрүү бетин жана кара тилкелерди видео менен жарыктандырат</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Жарыктын күчү</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Саат беттинде жана кара тилкелерде жарыктын канчалык күчтүү болорун аныктайт</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Текстти окула турган кылып сактоо</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Жарык видеолордогу жарыкты азайтып, беттеги тексттин окула турган болушун камсыздайт</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Скроллинг учурунда карартуу</string>

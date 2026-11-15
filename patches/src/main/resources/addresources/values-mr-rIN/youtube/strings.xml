@@ -1129,6 +1129,8 @@ OpenRouter.ai उघडण्यासाठी येथे टॅप करा
   <string name="morphe_disable_fullscreen_ambient_mode_title">पूर्ण स्क्रीनमध्ये एंबियंट मोड अक्षम करा</string>
   <string name="morphe_enhanced_ambient_mode_title">सुधारित अ‍ॅम्बियंट मोड</string>
   <string name="morphe_enhanced_ambient_mode_summary">अ‍ॅम्बियंट मोडऐवजी, व्हिडिओनुसार संपूर्ण वॉच पेज आणि ब्लॅक बार उजळते</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">प्रकाशाची तीव्रता</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">वॉच पेज आणि काळ्या पट्ट्यांवरील प्रकाश किती तीव्र असावा</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">मजकूर वाचनीय ठेवा</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">उजळ व्हिडिओवरील प्रकाश कमी करतो जेणेकरून पेजवरील मजकूर वाचनीय राहील</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">स्क्रोल करताना मंद करा</string>

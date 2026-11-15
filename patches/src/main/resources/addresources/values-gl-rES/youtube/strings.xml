@@ -1129,6 +1129,8 @@ Para amosar o menú 'Audio Track', cambie 'Spoof video streams' por calquera cli
   <string name="morphe_disable_fullscreen_ambient_mode_title">Desactivar o modo ambiente en pantalla completa</string>
   <string name="morphe_enhanced_ambient_mode_title">Modo Ambiente mellorado</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ilumina toda a páxina de visionado e as barras negras co vídeo, en lugar do modo Ambiente</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Intensidade da luz</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">A intensidade da luz na páxina do reloxo e nas barras negras</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Mantener o texto lexible</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Atenúa a luz en vídeos brillantes para que o texto da páxina siga sendo lexible</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Atenuar ao desplazar</string>

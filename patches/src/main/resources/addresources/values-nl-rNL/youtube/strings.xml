@@ -1128,6 +1128,8 @@ Om het 'Audio Track'-menu weer te geven, wijzig 'Spoof video streams' naar elke 
   <string name="morphe_disable_fullscreen_ambient_mode_title">Schakel de ambientmodus in volledig scherm uit</string>
   <string name="morphe_enhanced_ambient_mode_title">Verbeterde sfeervolle modus</string>
   <string name="morphe_enhanced_ambient_mode_summary">Verlicht de hele videopagina en de zwarte balken met de video, in plaats van de sfeervolle modus</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Lichtsterkte</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Hoe sterk het licht is op de horlogepagina en de zwarte balken</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Tekst leesbaar houden</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Dimt het licht bij heldere video\'s zodat de tekst op de pagina leesbaar blijft</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Dimmen tijdens scrollen</string>

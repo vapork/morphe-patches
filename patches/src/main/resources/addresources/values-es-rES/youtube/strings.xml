@@ -1129,6 +1129,8 @@ Para mostrar el menú 'Pista de audio', cambia 'Falsificar transmisiones de víd
   <string name="morphe_disable_fullscreen_ambient_mode_title">Desactivar Modo Ambiente en pantalla completa</string>
   <string name="morphe_enhanced_ambient_mode_title">Modo Ambiente mejorado</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ilumina toda la página de reproducción y las barras negras con el vídeo, en lugar del Modo Ambiente</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Intensidad de la luz</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Qué tan intensa es la luz en la página del reloj y en las barras negras</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Mantener el texto legible</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Atenúa la luz en vídeos brillantes para que el texto de la página siga siendo legible</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Atenuar al desplazar</string>

@@ -1129,6 +1129,8 @@ OpenRouter.aiን ለመክፈት እዚህ ይጫኑ"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">በሙሉ ስክሪን ላይ Ambient ሞድን አቋርጥ</string>
   <string name="morphe_enhanced_ambient_mode_title">የተሻሻለ Ambient ሞድ</string>
   <string name="morphe_enhanced_ambient_mode_summary">በ Ambient ሞድ ፋንታ ሙሉውን የዕይታ ገጽ እና ጥቁር አጥሮችን በቪዲዮው ቀለም ያበራል</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">የብርሃን ጥንካሬ</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">በሰዓቱ ገጽ እና በጥቁር አጥባዎች ላይ ብርሃኑ ምን ያህል ጠንካራ እንደሚሆን</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">ጽሁፉን ለማንበብ እንዲመች አድርግ</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">በብሩህ ቪዲዮዎች ላይ ብርሃኑን ያደበዝዛል እና በገጹ ላይ ያለው ጽሁፍ ለማንበብ እንዲመች ያደርጋል</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">በማሸብለል ጊዜ ማደብዘዝ</string>

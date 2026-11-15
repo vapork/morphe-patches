@@ -1126,6 +1126,8 @@ Sozlamalarga kirish uchun General → Toolbar → Show Settings button orqali So
   <string name="morphe_disable_fullscreen_ambient_mode_title">Ambient rejimini to\'liq ekran rejimida o\'chirish</string>
   <string name="morphe_enhanced_ambient_mode_title">Kengaytirilgan Ambient rejimi</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ambient rejimi o\'rniga butun tomosha sahifasini va qora panellarni video bilan yoritadi</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Yorug\'lik kuchi</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Soat sahifasi va qora panjaralardagi yorug\'lik qanchalik kuchli ekanligi</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Matn o\'qilishini saqlab qolish</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Yorqin videolarda yorug\'likni pasaytiradi, shunda sahifadagi matn o\'qilishi oson bo\'ladi</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Harakatlantirganda xiralashtirish</string>

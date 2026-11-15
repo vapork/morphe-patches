@@ -1129,6 +1129,8 @@ OpenRouter.ai খুলিবলৈ ইয়াত টিপক"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">ফুলস্ক্ৰীণত এম্বিয়ান্ট মোড নিষ্ক্ৰিয় কৰক</string>
   <string name="morphe_enhanced_ambient_mode_title">উন্নত এম্বিয়েন্ট মোড</string>
   <string name="morphe_enhanced_ambient_mode_summary">এম্বিয়েন্ট মোডৰ ঠাইত ভিডিঅ\'ৰ সৈতে সমগ্ৰ ৱাচ পেজ আৰু ক’লা বাৰবোৰ পোহৰ কৰে</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">পোহৰৰ শক্তি</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">ঘড়ীৰ পৃষ্ঠা আৰু ক’লা বৰ্গুলাত পোহৰ কিমান শক্তিশালী হ’ব</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">টেক্সট পঢ়িব পৰা অৱস্থাত ৰাখক</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">উজ্জ্বল ভিডিঅ\'ৰ পোহৰ কম কৰে যাতে পৃষ্ঠাৰ টেক্সটবোৰ পঢ়িব পৰা হয়</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">স্ক্ৰল কৰাৰ সময়ত ডিম কৰক</string>

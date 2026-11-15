@@ -1129,6 +1129,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">在全屏时禁用氛围模式</string>
   <string name="morphe_enhanced_ambient_mode_title">增强型氛围模式</string>
   <string name="morphe_enhanced_ambient_mode_summary">用视频颜色照亮整个观看页面和黑边，以替代氛围模式</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">光线强度</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">设置表盘页面和黑色边栏的光线强度</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">保持文本可读</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">调暗亮色视频的光照，使页面上的文本保持可读</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">滚动时调暗</string>

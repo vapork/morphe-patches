@@ -1129,6 +1129,8 @@ Untuk memaparkan menu 'Audio Track', tukar 'Spoof video streams' kepada mana-man
   <string name="morphe_disable_fullscreen_ambient_mode_title">Nyahaktifkan mod Ambien dalam skrin penuh</string>
   <string name="morphe_enhanced_ambient_mode_title">Mod Ambien yang dipertingkatkan</string>
   <string name="morphe_enhanced_ambient_mode_summary">Menerangi keseluruhan halaman tontonan dan bar hitam dengan video, bagi menggantikan mod Ambien</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Kekuatan cahaya</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Tahap kekuatan cahaya pada halaman jam dan bar hitam</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Kekalkan teks boleh dibaca</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Memalapkan cahaya pada video yang terang supaya teks pada halaman tetap boleh dibaca</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Malapkan semasa menatal</string>

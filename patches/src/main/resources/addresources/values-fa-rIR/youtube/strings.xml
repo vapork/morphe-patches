@@ -1129,6 +1129,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">غیرفعال‌کردن حالت محیطی در تمام‌صفحه</string>
   <string name="morphe_enhanced_ambient_mode_title">حالت محیطی پیشرفته</string>
   <string name="morphe_enhanced_ambient_mode_summary">به جای حالت محیطی، تمام صفحه تماشا و نوارهای سیاه را با رنگ ویدیو روشن می‌کند</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">شدت نور</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">میزان شدت نور در صفحه ساعت و نوارهای سیاه</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">خوانا نگه داشتن متن</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">شدت نور در ویدیوهای روشن را کاهش می‌دهد تا متن‌های صفحه خوانا باقی بمانند</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">کم‌نور شدن هنگام پیمایش</string>

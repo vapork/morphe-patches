@@ -1129,6 +1129,8 @@ För att visa menyn 'Ljudspår', ändra 'Förfalska videostreamar' till valfri k
   <string name="morphe_disable_fullscreen_ambient_mode_title">Inaktivera Ambientljus i helskärm</string>
   <string name="morphe_enhanced_ambient_mode_title">Förbättrat Ambientljus</string>
   <string name="morphe_enhanced_ambient_mode_summary">Lyser upp hela visningssidan och svarta fält med videon, istället för Ambientljus</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Ljusstyrka</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Hur starkt ljuset är på urtavlan och de svarta fälten</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Behåll texten läsbar</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Dämpar ljuset på ljusa videor så att texten på sidan förblir läsbar</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Dämpa vid rullning</string>

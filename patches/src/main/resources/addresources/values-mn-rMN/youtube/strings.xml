@@ -1129,6 +1129,8 @@ OpenRouter.ai сайтыг нээхээр энд дарна уу"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Бүрэн дэлгэц дээрх Ambient горимыг идэвхгүй болгох</string>
   <string name="morphe_enhanced_ambient_mode_title">Сайжруулсан Ambient горим</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ambient горимын оронд видеог ашиглан үзлэлтийн хуудас болон хар хэсгүүдийг бүхэлд нь гэрэлтүүлнэ</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Гэрлийн хүч</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Цагны нүүр болон хар зурааснууд дээрх гэрлийн хүчийг тохируулна</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Текстийг уншигдахуйц байлгах</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Гэрэлтэй видео дээр гэрлийг бүдгэрүүлж, хуудас дээрх текстийг уншигдахуйц байлгана</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Гүйлгэх үед бүдгэрүүлэх</string>

@@ -1128,6 +1128,8 @@ Per mostrare il menu 'Audio Track', cambia 'Falsificazione dei flussi video' in 
   <string name="morphe_disable_fullscreen_ambient_mode_title">Disattiva la modalità Ambient a schermo intero</string>
   <string name="morphe_enhanced_ambient_mode_title">Modalità Ambient avanzata</string>
   <string name="morphe_enhanced_ambient_mode_summary">Illumina l\'intera pagina di riproduzione e le barre nere con il video, al posto della modalità Ambient</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Intensità della luce</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">L\'intensità della luce sulla pagina dell\'orologio e sulle barre nere</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Mantieni il testo leggibile</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Attenua la luce nei video luminosi affinché il testo sulla pagina rimanga leggibile</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Scurisci durante lo scorrimento</string>

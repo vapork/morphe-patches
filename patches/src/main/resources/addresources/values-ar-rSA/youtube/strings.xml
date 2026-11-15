@@ -1047,7 +1047,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_navigation_bar_glass_opacity_title">شفافية الزجاج</string>
   <string name="morphe_navigation_bar_glass_opacity_summary">ضبط مستوى الشفافية لشريط التنقل الزجاجي (0 شفاف، 100 معتم)</string>
   <string name="morphe_navigation_bar_glass_round_title">شريط تنقل زجاجي دائري</string>
-  <string name="morphe_navigation_bar_glass_round_summary">يجعل أطراف شريط التنقل الزجاجي دائرية، بدلاً من الزوايا كما في المشغل المصغر الزجاجي</string>
+  <string name="morphe_navigation_bar_glass_round_summary">يجعل أطراف شريط التنقل الزجاجي دائرية، بدلًا من الزوايا كما في المشغل المصغر الزجاجي</string>
   <string name="morphe_navigation_bar_glass_size_title">حجم شريط التنقل الزجاجي</string>
   <string name="morphe_navigation_bar_glass_size_summary">ضبط ارتفاع, عرض وتباعد أزرار شريط التنقل الزجاجي، مع المعاينة. يتم إخفاء الأزرار التي لا تتناسب مع عرض الشاشة</string>
   <string name="morphe_navigation_bar_glass_size_height">الارتفاع</string>
@@ -1133,6 +1133,8 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_disable_fullscreen_ambient_mode_title">تعطيل وضع الإضاءة السينمائية في ملء الشاشة</string>
   <string name="morphe_enhanced_ambient_mode_title">وضع الإضاءة السينمائية المُحسّن</string>
   <string name="morphe_enhanced_ambient_mode_summary">يضيء صفحة المشاهدة بالكامل والأشرطة السوداء بما يتناسب مع الفيديو، بدلًا من وضع الإضاءة السينمائية</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">قوة الإضاءة</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">مدى قوة الإضاءة في صفحة المشاهدة والأشرطة السوداء</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">الحفاظ على وضوح النص</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">يخفف الإضاءة في الفيديوهات الساطعة بحيث يظل النص الموجود على الصفحة واضحًا للقراءة</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">تعتيم أثناء التمرير</string>
@@ -1389,7 +1391,7 @@ Mistral Nemo هو الخيار الأرخص، بينما توفر Gemma 4 أعل
   <string name="morphe_miniplayer_docked_title">المشغل المصغر المثبت</string>
   <string name="morphe_miniplayer_docked_summary">يربط المشغل المصغر بشريط التنقل وجوانب الشاشة، بدلًا من جعله يطفو فوقهما</string>
   <string name="morphe_miniplayer_glass_title">مشغل مصغر زجاجي</string>
-  <string name="morphe_miniplayer_glass_summary">يظهر المشغل المصغر كزجاج شبه شفاف بزوايا مستديرة، مثل شريط التنقل الزجاجي. يتطلب تفعيل شريط التنقل الزجاجي</string>
+  <string name="morphe_miniplayer_glass_summary">يظهر المشغل المصغر كزجاج شبه شفاف بزوايا مستديرة، مثل شريط التنقل الزجاجي. يتطلب تمكين شريط التنقل الزجاجي</string>
   <string name="morphe_miniplayer_type_entry_0">معطّل</string>
   <string name="morphe_miniplayer_type_entry_1">الافتراضي</string>
   <string name="morphe_miniplayer_type_entry_2">بسيط</string>

@@ -1129,6 +1129,8 @@ Menüü \"Audio Track\" kuvamiseks muutke \"Videovoogude imiteerimine\" suvalise
   <string name="morphe_disable_fullscreen_ambient_mode_title">Keela Ambient-režiim täisekraanil</string>
   <string name="morphe_enhanced_ambient_mode_title">Uuendatud Ümbritsev režiim</string>
   <string name="morphe_enhanced_ambient_mode_summary">Valgustab kogu vaatamislehte ja musti ribasid koos videoga, asendades Ümbritseva režiimi</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Valguse tugevus</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Kui tugev on valgus kellakuva lehel ja mustadel ribadel</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Hoidke tekst loetavana</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Hääldab heledate videote valgust, et lehel olev tekst püsiks loetavana</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Hägusta skrollimise ajal</string>

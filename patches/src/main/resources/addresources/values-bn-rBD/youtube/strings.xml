@@ -1129,6 +1129,8 @@ OpenRouter.ai ওপেন করতে এখানে ট্যাপ কর�
   <string name="morphe_disable_fullscreen_ambient_mode_title">ফুলস্ক্রিনে অ্যাম্বিয়েন্ট মোডটি অক্ষম করুন</string>
   <string name="morphe_enhanced_ambient_mode_title">উন্নত অ্যাম্বিয়েন্ট মোড</string>
   <string name="morphe_enhanced_ambient_mode_summary">অ্যাম্বিয়েন্ট মোডের পরিবর্তে ভিডিওর সাথে পুরো ওয়াচ পেজ এবং ব্ল্যাক বারগুলিকে আলোকিত করে</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">আলোর তীব্রতা</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">ওয়াচ পেজ এবং কালো বারগুলোতে আলো কতটা তীব্র হবে</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">টেক্সট পঠনযোগ্য রাখুন</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">উজ্জ্বল ভিডিওর আলো কমিয়ে দেয় যাতে পেজের টেক্সট পঠনযোগ্য থাকে</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">স্ক্রোল করার সময় ডিম করুন</string>

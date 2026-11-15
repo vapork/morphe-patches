@@ -1130,6 +1130,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">بێکارکردنی شێوازی Ambient لە شاشەی تەواو</string>
   <string name="morphe_enhanced_ambient_mode_title">مۆدی Ambient-ی باشترکراو</string>
   <string name="morphe_enhanced_ambient_mode_summary">تەواوی لاپەڕەی بینین و شریتە ڕەشەکان بە ڕەنگی ڤیدیۆکەوە ڕوون دەکاتەوە، لە جیاتی مۆدی Ambient</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">هێزی ڕووناکی</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">هێزی ڕووناکییەکە لە لاپەڕەی سەعات و شریتە ڕەشەکاندا چەندە</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">تێکستی readable بهێڵەوە</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">ڕووناکیی ڤیدیۆکانی گەش کەمدەکاتەوە بۆ ئەوەی تێکستەکانی لاپەڕەکە بە ڕوونی بخوێندرێن</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">تاریکی لە کاتی سکرۆڵکردن</string>

@@ -1129,6 +1129,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Вимкнути \"Кінематографічне освітлення\" для повноекранного режиму</string>
   <string name="morphe_enhanced_ambient_mode_title">Покращене кінематографічне освітлення</string>
   <string name="morphe_enhanced_ambient_mode_summary">Підсвічує всю сторінку перегляду та чорні смуги кольорами відео замість кінематографічного освітлення</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Інтенсивність світла</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Наскільки інтенсивне світло на сторінці перегляду та на чорних смугах</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Зберігати читабельність тексту</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Приглушує підсвічування на яскравих відео, щоб текст на сторінці залишався читабельним</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Приглушувати під час прокручування</string>
@@ -1384,7 +1386,7 @@ Second \"item\" text"</string>
   <string name="morphe_miniplayer_docked_title">Закріплений мініплеєр</string>
   <string name="morphe_miniplayer_docked_summary">Закріплює мініплеєр до панелі навігації та країв екрана замість того, щоб він плавав над ними</string>
   <string name="morphe_miniplayer_glass_title">Скляний мініплеєр</string>
-  <string name="morphe_miniplayer_glass_summary">Відображає мініплеєр як напівпрозоре скло із закругленими кутами, як у скляної панелі навігації. Потребує скляної панелі навігації</string>
+  <string name="morphe_miniplayer_glass_summary">Відображає мініплеєр як напівпрозоре скло із закругленими кутами, як скляна панель навігації. Потребує скляної панелі навігації</string>
   <string name="morphe_miniplayer_type_entry_0">Вимкнено</string>
   <string name="morphe_miniplayer_type_entry_1">Стандартний</string>
   <string name="morphe_miniplayer_type_entry_2">Мінімальний</string>
@@ -1821,7 +1823,7 @@ AVC (H.264)
   <string name="morphe_niconico_comments_screen_title">Коментарі Niconico</string>
   <string name="morphe_niconico_comments_screen_summary">Показувати живий чат і повтор чату як коментарі, що прокручуються по відео</string>
   <string name="morphe_niconico_comments_summary">Показує кнопку у відеоплеєрі. Натисніть, щоб показувати або приховувати коментарі, утримуйте для швидких налаштувань</string>
-  <string name="morphe_niconico_comments_pip_title">Показувати коментарі в режимі \"Картинка в картинці\"</string>
+  <string name="morphe_niconico_comments_pip_title">Показувати в режимі \"Картинка в картинці\"</string>
   <string name="morphe_niconico_comments_pip_summary">Коментарі масштабуються, щоб поміститися у вікні</string>
   <string name="morphe_niconico_comments_appearance_title">Вигляд</string>
   <string name="morphe_niconico_comments_portrait_category_title">Портретна орієнтація</string>

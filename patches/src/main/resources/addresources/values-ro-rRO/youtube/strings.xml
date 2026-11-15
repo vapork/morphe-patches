@@ -1128,6 +1128,8 @@ Pentru a afișa meniul 'Audio Track', schimbați 'Spoof video streams' în orice
   <string name="morphe_disable_fullscreen_ambient_mode_title">Dezactivați modul Ambient în ecran complet</string>
   <string name="morphe_enhanced_ambient_mode_title">Mod Ambient îmbunătățit</string>
   <string name="morphe_enhanced_ambient_mode_summary">Iluminează întreaga pagină de vizionare și barele negre cu videoclipul, în locul modului Ambient</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Intensitatea luminii</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Cât de intensă este lumina pe pagina ceasului și pe barele negre</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Menține textul lizibil</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Reduce luminozitatea videoclipurilor luminoase pentru ca textul de pe pagină să rămână lizibil</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Diminuarea luminii în timpul defilării</string>

@@ -1128,6 +1128,8 @@ For å vise 'Audio Track'-menyen, endre 'Forfalsk videostrømmer' til en hvilken
   <string name="morphe_disable_fullscreen_ambient_mode_title">Deaktiver omgivelsesmodus i fullskjerm</string>
   <string name="morphe_enhanced_ambient_mode_title">Forbedret omgivelsesmodus</string>
   <string name="morphe_enhanced_ambient_mode_summary">Lyser opp hele se-siden og svarte felt med videoen, i stedet for omgivelsesmodus</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Lysstyrke</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Hvor sterkt lyset er på urskiven og de svarte feltene</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Hold tekst lesbar</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Demper lyset på lyse videoer slik at teksten på siden forblir lesbar</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Demp ved rulling</string>

@@ -1128,6 +1128,8 @@ Da biste prikazali meni 'Audio Track', promenite 'Lažiranje video strimova' na 
   <string name="morphe_disable_fullscreen_ambient_mode_title">Onemogući „Ambijentalni režim” u režimu preko celog ekrana</string>
   <string name="morphe_enhanced_ambient_mode_title">Unapređeni ambijentalni režim</string>
   <string name="morphe_enhanced_ambient_mode_summary">Osvetljava celu stranicu za gledanje i crne trake video snimkom, umesto ambijentalnog režima</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Jačina svetlosti</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Koliko je svetlost jaka na stranici sata i crnim trakama</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Održavaj tekst čitljivim</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Prigušuje svetlost kod svetlih video snimaka kako bi tekst na stranici ostao čitljiv</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Zatamni tokom skrolovanja</string>

@@ -1128,6 +1128,8 @@ Az 'Audio Track' menü megjelenítéséhez állítsa a 'Videóstream-ek megtéve
   <string name="morphe_disable_fullscreen_ambient_mode_title">Ambient mód letiltása teljes képernyős módban</string>
   <string name="morphe_enhanced_ambient_mode_title">Fejlesztett Mozifilmes világítás</string>
   <string name="morphe_enhanced_ambient_mode_summary">A Mozifilmes világítás helyett a videó színei világítják meg az egész megtekintési oldalt és a fekete sávokat</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Fényerő</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">A fény erőssége az óra lapján és a fekete sávokon</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">A szöveg olvashatósága megőrzése</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Csökkenti a fényt a világos videóknál, hogy az oldalon lévő szöveg olvasható maradjon</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Sötkítse görgetés közben</string>

@@ -1128,6 +1128,8 @@ Til að sýna valmyndina 'Hljóðrás', breyttu 'Falsa myndstrauma' í hvaða bi
   <string name="morphe_disable_fullscreen_ambient_mode_title">Slökkva á umhverfisstillingu í fullskjá</string>
   <string name="morphe_enhanced_ambient_mode_title">Uppbætt Ambient-stilling</string>
   <string name="morphe_enhanced_ambient_mode_summary">Lýsir upp allri horfunsíðunni og svörtum ramma með litum myndbandsins í stað Ambient-stillingar</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Styrkur ljóssins</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Hversu sterkt ljósið er á horlofansíðunni og svörtum stöngum</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Halda texta læsilegum</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Dimmar ljósið á björtum myndböndum svo textinn á síðunni haldi sér læsilegum</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Dökkva við skrollingu</string>

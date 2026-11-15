@@ -1128,6 +1128,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Онемогући „Амбијентални режим” у режиму преко целог екрана</string>
   <string name="morphe_enhanced_ambient_mode_title">Напреднати амбијентални режим</string>
   <string name="morphe_enhanced_ambient_mode_summary">Осветљава целу страницу за гледање и црне траке у складу са видео-записом, уместо амбијенталног режима</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Јачина светлости</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Колико је светлост јака на страници са сатом и црним тракама</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Задржи читљивост текста</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Пригушује светлост код светлих видео-записа како би текст на страници остао читљив</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Затамни током скроловања</string>

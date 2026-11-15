@@ -1128,6 +1128,8 @@ Jos haluat näyttää ääniraitavalikon, vaihda \"Naamioi videovirrat\" -asetuk
   <string name="morphe_disable_fullscreen_ambient_mode_title">Poista Elokuvatila käytöstä kokoruututilassa</string>
   <string name="morphe_enhanced_ambient_mode_title">Parannettu Elokuvatila</string>
   <string name="morphe_enhanced_ambient_mode_summary">Valaisee koko katselusivun ja mustat palkit videon mukaan Elokuvatilan sijaan</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Valon voimakkuus</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Kuinka voimakas valo on kellotaululla ja mustissa palkeissa</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Pidä teksti luettavana</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Hämmentää valoa kirkkaissa videoissa, jotta sivun teksti pysyy luettavana</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Himmennä vierittäessä</string>

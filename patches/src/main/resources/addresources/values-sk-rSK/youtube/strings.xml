@@ -1126,6 +1126,8 @@ Ak chcete zobraziť menu 'Audio Track', zmeňte 'Spoofovanie video streamov' na 
   <string name="morphe_disable_fullscreen_ambient_mode_title">Zakázať režim Ambient na celú obrazovku</string>
   <string name="morphe_enhanced_ambient_mode_title">Vylepšený ambientný režim</string>
   <string name="morphe_enhanced_ambient_mode_summary">Osvetli celý stránku sledovania a čierne pruhy farbami videa namiesto ambientného režimu</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Intenzita svetla</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Ak intenzívne je svetlo na stránke hodiniek a na čiernych pruhoch</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Udržať text čitateľný</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Pri jasných videách stmavuje svetlo, aby text na stránke zostal čitateľný</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Ztmaviť pri scrollovaní</string>

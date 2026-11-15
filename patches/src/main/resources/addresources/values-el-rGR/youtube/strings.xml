@@ -1128,6 +1128,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Απενεργοποίηση λειτουργίας περιβάλλοντος σε πλήρη οθόνη</string>
   <string name="morphe_enhanced_ambient_mode_title">Βελτιωμένη λειτουργία περιβάλλοντος</string>
   <string name="morphe_enhanced_ambient_mode_summary">Φωτίζει ολόκληρη τη σελίδα προβολής και τις μαύρες μπάρες με το βίντεο, αντί για τη Λειτουργία περιβάλλοντος</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Ένταση φωτός</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Πόσο έντονο είναι το φως στη σελίδα του ρολογιού και στις μαύρες μπάρες</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Διατήρηση αναγνώσιμου κειμένου</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Μειώνει τη φωτεινότητα σε φωτεινά βίντεο ώστε το κείμενο στη σελίδα να παραμένει αναγνώσιμο</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Σκότωση κατά τη διάρκεια κύλισης</string>

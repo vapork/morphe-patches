@@ -1129,6 +1129,8 @@ Untuk menampilkan menu 'Trek Audio', ubah 'Palsukan aliran video' ke klien apa p
   <string name="morphe_disable_fullscreen_ambient_mode_title">Nonaktifkan Mode pencahayaan sinematik dalam layar penuh</string>
   <string name="morphe_enhanced_ambient_mode_title">Mode pencahayaan sinematik yang ditingkatkan</string>
   <string name="morphe_enhanced_ambient_mode_summary">Menerangi seluruh halaman tontonan dan bilah hitam dengan video, sebagai pengganti Mode pencahayaan sinematik</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Kekuatan cahaya</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Seberapa kuat cahaya pada halaman jam tangan dan batang hitam</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Jaga agar teks tetap terbaca</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Meredupkan cahaya pada video terang agar teks di halaman tetap terbaca</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Redupkan saat menggulir</string>

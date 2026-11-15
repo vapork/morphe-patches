@@ -1128,6 +1128,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Անջատել Ambient ռեժիմը լրիվ էկրանի ժամանակ</string>
   <string name="morphe_enhanced_ambient_mode_title">Լուսավորության բարելավված ռեժիմ</string>
   <string name="morphe_enhanced_ambient_mode_summary">Լուսավորում է դիտման ողջ էջը և սև զողերը տեսանյութի գույներով՝ փոխարինելով Ambient ռեժիմին</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Լույսի ուժգնությունը</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Որքան ուժեղ է լույսը ժամացույցի էջում և սև զուգագծերի վրա</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Պահպանել տեքստի ընթեռնելիությունը</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Մարում է լույսը պայծառ տեսանյութերի դեպքում, որպեսզի էջի տեքստը մնա ընթեռնելի</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Մարմարել թռչարկման ժամանակ</string>

@@ -1128,6 +1128,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">השבת תאורה סביבתית במסך מלא</string>
   <string name="morphe_enhanced_ambient_mode_title">מצב תאורת אווירה משופר</string>
   <string name="morphe_enhanced_ambient_mode_summary">מאיר את כל דף הצפייה ואת הפסים השחורים באמצעות הסרטון, במקום מצב תאורת אווירה</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">עוצמת תאורה</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">מידת עוצמת התאורה בדף השעון ובפסים השחורים</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">שמירה על קריאות הטקסט</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">מעמעם את התאורה בסרטונים בהירים כדי שהטקסט בדף יישאר קריא</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">החשכה בזמן גלילה</string>

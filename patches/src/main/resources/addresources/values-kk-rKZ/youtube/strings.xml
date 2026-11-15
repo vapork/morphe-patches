@@ -1128,6 +1128,8 @@ API кілтін ешқашан бөліспеңіз. Оған қолжетім�
   <string name="morphe_disable_fullscreen_ambient_mode_title">Толық экрандағы Ambient режимін өшіру</string>
   <string name="morphe_enhanced_ambient_mode_title">Жақсартылған Ambient режимі</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ambient режимінің орнына бүкіл сағат бетін және видеодағы қара жолақтарды жарықтандырады</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Жарық күші</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Сағат беті мен қара жолақтардағы жарықтың қаншалықты күшті екендігі</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Мәтінді оқылатын күйде сақтау</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Беттегі мәтін оқылатын болуы үшін жарық видеолардағы жарықты азайтады</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Скроллинг кезінде күңгіртету</string>

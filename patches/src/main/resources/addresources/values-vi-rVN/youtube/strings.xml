@@ -1129,6 +1129,8 @@ Cần thiết lập \"Cookie phụ đề\""</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Tắt Chế độ môi trường khi toàn màn hình</string>
   <string name="morphe_enhanced_ambient_mode_title">Chế độ môi trường xung quanh nâng cao</string>
   <string name="morphe_enhanced_ambient_mode_summary">Chiếu sáng toàn bộ trang xem và các thanh đen theo video, thay thế cho Chế độ môi trường xung quanh</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Cường độ ánh sáng</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Độ mạnh của ánh sáng trên trang đồng hồ và các thanh màu đen</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Giữ cho văn bản dễ đọc</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Giảm độ sáng của các video sáng để văn bản trên trang vẫn dễ đọc</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Làm mờ khi cuộn</string>

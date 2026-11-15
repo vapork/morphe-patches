@@ -1129,6 +1129,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Отключить фоновую подсветку в полноэкранном режиме</string>
   <string name="morphe_enhanced_ambient_mode_title">Улучшенный режим фоновой подсветки</string>
   <string name="morphe_enhanced_ambient_mode_summary">Подсвечивает всю страницу просмотра и черные полосы в цвет видео вместо обычного режима фоновой подсветки</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Интенсивность света</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Насколько ярким будет свет на циферблате и черных полосах</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Сохранять читаемость текста</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Приглушает свет на ярких видео, чтобы текст на странице оставался читаемым</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Приглушать при прокрутке</string>

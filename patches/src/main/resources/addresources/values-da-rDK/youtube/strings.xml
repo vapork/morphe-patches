@@ -1129,6 +1129,8 @@ For at vise 'Lydspor'-menuen skal du ændre 'Spoof video streams' til enhver kli
   <string name="morphe_disable_fullscreen_ambient_mode_title">Deaktiver Omsluttende tilstand i fuldskærm</string>
   <string name="morphe_enhanced_ambient_mode_title">Forbedret omsluttende tilstand</string>
   <string name="morphe_enhanced_ambient_mode_summary">Oplyser hele afspilningssiden og de sorte bjælker med videoen i stedet for omsluttende tilstand</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Lysstyrke</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Hvor kraftigt lyset er på urskiven og de sorte bjælker</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Hold tekst læsbar</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Dæmper lyset på lyse videoer, så teksten på siden forbliver læsbar</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Dæmp under rulning</string>

@@ -1129,6 +1129,8 @@ Om die 'Audio Track'-kieslys te wys, verander 'Vervals videostrome' na enige kli
   <string name="morphe_disable_fullscreen_ambient_mode_title">Deaktiveer omgewingsmodus in volskerm</string>
   <string name="morphe_enhanced_ambient_mode_title">Verbeterde Ambient-modus</string>
   <string name="morphe_enhanced_ambient_mode_summary">Verlig die hele kykbladsy en swart Stroke met die video, in plaas van Ambient-modus</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Ligsterkte</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Hoe sterk die lig op die horlosiebladsy en die swart stroke is</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Hou teks leesbaar</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Dim die lig op helder video\'s sodat die teks op die bladsy leesbaar bly</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Dim terwyl daar geskrol word</string>

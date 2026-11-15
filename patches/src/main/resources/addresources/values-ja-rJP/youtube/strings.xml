@@ -1130,6 +1130,8 @@ APIキーは決して共有しないでください。アクセス権を持つ�
   <string name="morphe_disable_fullscreen_ambient_mode_title">全画面表示中のアンビエント モードを無効化</string>
   <string name="morphe_enhanced_ambient_mode_title">強化版アンビエント モード</string>
   <string name="morphe_enhanced_ambient_mode_summary">アンビエント モードの代わりに、動画に合わせて再生ページ全体と黒いバーを照らします</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">光の強さ</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">ウォッチフェイスと黒いバーの光の強さを設定します</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">テキストの可読性を維持</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">明るい動画の光を抑え、ページ上のテキストが読みやすい状態を維持します</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">スクロール中に暗くする</string>

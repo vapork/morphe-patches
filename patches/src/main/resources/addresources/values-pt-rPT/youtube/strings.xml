@@ -1129,6 +1129,8 @@ Para mostrar o menu 'Faixa de áudio', altere 'Falsificar fluxos de vídeo' para
   <string name="morphe_disable_fullscreen_ambient_mode_title">Desativar modo ambiente em ecrã inteiro</string>
   <string name="morphe_enhanced_ambient_mode_title">Modo ambiente aprimorado</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ilumina toda a página de exibição e as barras pretas com o vídeo, em vez do Modo ambiente</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Intensidade da luz</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Quão forte é a luz na página do relógio e nas barras pretas</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Manter o texto legível</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Suaviza a luz em vídeos brilhantes para que o texto na página permaneça legível</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Escurecer ao rolar</string>

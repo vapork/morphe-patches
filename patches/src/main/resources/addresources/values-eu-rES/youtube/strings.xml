@@ -1129,6 +1129,8 @@ Konfigurazioa atzitzeko, gaitu Konfigurazio botoia Orokorra → Tresna-barra →
   <string name="morphe_disable_fullscreen_ambient_mode_title">Desaktibu Ambient modua pantaila osoan</string>
   <string name="morphe_enhanced_ambient_mode_title">Ambient modu hobetua</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ikusi-orrialde osoa eta barra beltzak bideoarekin argitzen ditu, Ambient moduko ordez</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Argiaren indarra</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Argia zenbat indartsu den relojoaren orrialdean eta barra beltzei</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Mantendu testua irakurgarria</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Bideo argi等etan argia gutxitzen du orrialdeko testua irakurgarri izaten jarraitzeko</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Iluntatu scroll egitean</string>

@@ -1129,6 +1129,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Адключаць рэжым Ambient у паўнаэкранным рэжыме</string>
   <string name="morphe_enhanced_ambient_mode_title">Палепшаны рэжым Ambient</string>
   <string name="morphe_enhanced_ambient_mode_summary">Падсвечвае ўсю старонку прагляду і чорныя палосы колерам відэа замест рэжыму Ambient</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Моцнасць святла</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Насколько моцнае святло на старонцы гадзінніка і чорных палос</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Забеспечыць чытальнасць тэксту</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Зменшвае яркасць святла на яркіх відэа, каб тэкст на старонцы заставаўся чытальным</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Ціміраванне пры пракручванні</string>

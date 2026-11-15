@@ -1129,6 +1129,8 @@ Upang ipakita ang menu na 'Audio Track', baguhin ang 'I-spoof ang mga video stre
   <string name="morphe_disable_fullscreen_ambient_mode_title">I-disable ang ambient mode sa fullscreen</string>
   <string name="morphe_enhanced_ambient_mode_title">Pinahusay na Ambient mode</string>
   <string name="morphe_enhanced_ambient_mode_summary">Nililiwanagan ang buong watch page at ang mga black bar kasabay ng video, bilang kapalit ng Ambient mode</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Lakas ng liwanag</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Kung gaano kalakas ang liwanag sa pahina ng relo at sa mga itim na bar</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Panatilihing nababasa ang text</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Pinapahina ang liwanag sa mga maliwanag na video para manatiling nababasa ang text sa page</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Palamlam habang nag-i-scroll</string>

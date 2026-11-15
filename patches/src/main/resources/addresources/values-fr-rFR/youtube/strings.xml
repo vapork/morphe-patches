@@ -1043,7 +1043,7 @@ Pour accéder aux Paramètres, activez le bouton 'Paramètres' via 'Général' �
   <string name="morphe_navigation_bar_glass_opacity_title">Opacité du verre</string>
   <string name="morphe_navigation_bar_glass_opacity_summary">Ajustez le niveau de transparence de la barre de navigation en verre (0 est transparent, 100 est opaque)</string>
   <string name="morphe_navigation_bar_glass_round_title">Barre de navigation en verre arrondie</string>
-  <string name="morphe_navigation_bar_glass_round_summary">Donne à la barre de navigation en verre des extrémités arrondies, au lieu de coins comme le mini-lecteur en verre</string>
+  <string name="morphe_navigation_bar_glass_round_summary">Donne à la barre de navigation en verre des extrémités arrondies, au lieu d\'avoir des coins comme le mini-lecteur en verre</string>
   <string name="morphe_navigation_bar_glass_size_title">Taille de la barre de navigation en verre</string>
   <string name="morphe_navigation_bar_glass_size_summary">Ajustez la hauteur, la largeur et l\'espacement des boutons de la barre de navigation en verre, avec un aperçu. Les boutons qui ne tiennent pas dans la largeur de l\'écran sont masqués</string>
   <string name="morphe_navigation_bar_glass_size_height">Hauteur</string>
@@ -1129,6 +1129,8 @@ Pour afficher le menu 'Piste audio', changez 'Falsifier les flux vidéo' et sél
   <string name="morphe_disable_fullscreen_ambient_mode_title">Désactiver le mode Ambiant en plein écran</string>
   <string name="morphe_enhanced_ambient_mode_title">Mode Ambiant amélioré</string>
   <string name="morphe_enhanced_ambient_mode_summary">Illumine toute la page de lecture ainsi que les bandes noires autour de la vidéo, à la place du mode Ambiant</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Intensité de la lumière</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Intensité de la lumière sur la page de visionnage et les barres noires</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Garder le texte lisible</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Atténue la luminosité des vidéos très lumineuses afin que le texte de la page reste lisible</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Atténuer pendant le défilement</string>
@@ -1386,7 +1388,7 @@ Mise en page pour automobile
   <string name="morphe_miniplayer_docked_title">Mini-lecteur ancré</string>
   <string name="morphe_miniplayer_docked_summary">Ancre le mini-lecteur à la barre de navigation et aux côtés de l\'écran, au lieu de le laisser flotter au-dessus de ceux-ci</string>
   <string name="morphe_miniplayer_glass_title">Mini-lecteur en verre</string>
-  <string name="morphe_miniplayer_glass_summary">Affiche le mini-lecteur comme un verre translucide avec des coins arrondis, comme la barre de navigation en verre. Nécessite la barre de navigation en verre</string>
+  <string name="morphe_miniplayer_glass_summary">Affiche le mini-lecteur sous forme de verre translucide aux coins arrondis, comme la barre de navigation en verre. Nécessite la barre de navigation en verre</string>
   <string name="morphe_miniplayer_type_entry_0">Désactivé</string>
   <string name="morphe_miniplayer_type_entry_1">Par défaut</string>
   <string name="morphe_miniplayer_type_entry_2">Minimaliste</string>

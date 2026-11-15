@@ -1128,6 +1128,8 @@ Lai rādītu izvēlni 'Audio Track', mainiet 'Spoof video streams' uz jebkuru kl
   <string name="morphe_disable_fullscreen_ambient_mode_title">Atslēgt Ambient režīmu pilnekrāna režīmā</string>
   <string name="morphe_enhanced_ambient_mode_title">Uzlabots Ambient režīms</string>
   <string name="morphe_enhanced_ambient_mode_summary">Apgaismo visu skatīšanas lapu un melnās joslas ar video, Ambient režīma vietā</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Gaismas stiprums</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Cik spēcīga ir gaisma pulksteņa lapā un melnajās joslās</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Sagatavot tekstu lasīšanai</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Dimdimo gaismu gaišos video, lai teksts lapā paliktu lasāms</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Zabtums skrolējot</string>

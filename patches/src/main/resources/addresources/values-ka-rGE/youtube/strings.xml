@@ -1128,6 +1128,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Ambient რეჟიმის გამორთვა სრული ეკრანის დროს</string>
   <string name="morphe_enhanced_ambient_mode_title">გაუმჯობესებული Ambient რეჟიმი</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ambient რეჟიმის ნაცვლად, ვიდეოს ფერებში განანათებს მთელ გვერდსა და შავ ზოლებს</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">სინათლის ინტენსივობა</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">სინათლის სიმძლავრე საათის გვერდზე და შავ ზოლებზე</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">ტექსტის წაკითხვადი დატოვება</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">აკორრიფებს განათებას კაშკაშა ვიდეოების დროს, რათა გვერდზე ტექსტი წაკითხვადი დარჩეს</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">გაბინდვა სქროლვისას</string>

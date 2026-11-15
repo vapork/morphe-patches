@@ -1128,6 +1128,8 @@ Da biste prikazali izbornik audio zapisa, promijenite 'Parodija video streamova'
   <string name="morphe_disable_fullscreen_ambient_mode_title">Onemogući Ambient način u cijelom zaslonu</string>
   <string name="morphe_enhanced_ambient_mode_title">Poboljšani Ambient način rada</string>
   <string name="morphe_enhanced_ambient_mode_summary">Osvjetljuje cijelu stranicu za gledanje i crne trake bojama videa, umjesto Ambient načina rada</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Jačina svjetla</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Koliko je svjetlo jako na stranici sata i crnim trakama</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Očuvaj čitljivost teksta</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Prigušuje svjetlost kod svijetlih videa kako bi tekst na stranici ostao čitljiv</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Zatamni tijekom pomicanjaatrage</string>

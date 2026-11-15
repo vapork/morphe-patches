@@ -1127,6 +1127,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">在全螢幕狀態下停用微光效果</string>
   <string name="morphe_enhanced_ambient_mode_title">增強型微光效果</string>
   <string name="morphe_enhanced_ambient_mode_summary">使用影片色彩照亮整個觀看頁面及黑邊，以取代微光效果</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">光線強度</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">設定手錶頁面和黑色區塊的光線強度</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">保持文字可讀性</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">調低明亮影片的亮度，使頁面上的文字保持可讀</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">捲動時調暗</string>

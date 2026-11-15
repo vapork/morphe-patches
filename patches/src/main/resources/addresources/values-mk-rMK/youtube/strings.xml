@@ -1129,6 +1129,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">Оневозможете режим на околина во цел екран</string>
   <string name="morphe_enhanced_ambient_mode_title">Подобрен Ambient режим</string>
   <string name="morphe_enhanced_ambient_mode_summary">Го осветлува целиот дел за гледање и црните ленти со видеото, наместо Ambient режимот</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Јачина на светлината</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Колку е силна светлината на страницата на часовникот и црните ленти</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Зачувај ја читливоста на текстот</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Го намалува осветлувањето кај светлите видеа за текстот на страницата да остане читлив</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Затемнување при скролирање</string>

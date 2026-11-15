@@ -1129,6 +1129,8 @@ Ukuze ubonise imenyu ye-'Audio Track', shintsha 'Spoof video streams' kube yikla
   <string name="morphe_disable_fullscreen_ambient_mode_title">Vimba i-Ambient mode ekukhipheni isikrini sigcwele</string>
   <string name="morphe_enhanced_ambient_mode_title">Imodi ye-Ambient ethuthukisiwe</string>
   <string name="morphe_enhanced_ambient_mode_summary">Khanyisa ikhasi lonke lokubuka kanye nemigqa emnyama ngevidiyo, esikhundleni se-Ambient mode</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Amandla okukhanya</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Ukuthi ukukhanya kunamandla kangakanani ekhasini levarisishini kanye nemigqa emnyama</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Gcina umbhalo ufundeka</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Cishisela ukukhanya kumavidiyo akhanyayo ukuze umbhalo ekhasini uhlale ufundeka</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Khombisa kancane ngenkathi uskrola</string>

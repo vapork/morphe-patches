@@ -1129,6 +1129,8 @@ Ili kuonyesha menyu ya 'Audio Track', badilisha 'Spoof video streams' kuwa mteja
   <string name="morphe_disable_fullscreen_ambient_mode_title">Zima hali ya Ambient kwenye skrini nzima</string>
   <string name="morphe_enhanced_ambient_mode_title">Hali ya Ambient iliyoboreshwa</string>
   <string name="morphe_enhanced_ambient_mode_summary">Huangaza ukurasa mzima wa kutazama na mipasuo myeusi kwa rangi ya video, badala ya Hali ya Ambient</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Nguvu ya mwanga</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Ni jinsi mwanga ulivyo na nguvu kwenye ukurasa wa saa na mistari myeusi</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Weka maandishi yaweze kusomeka</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Hupunguza mwanga kwenye video zinazong\'aa ili maandishi kwenye ukurasa yaendelee kusomeka</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Fifisha wakati wa kusogeza</string>

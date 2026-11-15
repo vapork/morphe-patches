@@ -1129,6 +1129,8 @@ Um das Menü anzuzeigen, ändere \"Video-Streams vortäuschen\" in einen beliebi
   <string name="morphe_disable_fullscreen_ambient_mode_title">Ambient-Modus im Vollbildmodus deaktivieren</string>
   <string name="morphe_enhanced_ambient_mode_title">Erweiterter Ambient-Modus</string>
   <string name="morphe_enhanced_ambient_mode_summary">Beleuchtet die gesamte Wiedergabeseite und die schwarzen Balken mit dem Video anstelle des Ambient-Modus</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Lichtstärke</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Wie stark das Licht auf der Watchface-Seite und den schwarzen Balken ist</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Text lesbar halten</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Dimmt das Licht bei hellen Videos, damit der Text auf der Seite lesbar bleibt</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Beim Scrollen dimmen</string>
@@ -1780,6 +1782,7 @@ Die automatische Aufzeichnung ist optional. Sie stoppt im Inkognito-Modus oder w
   <string name="morphe_series_tracker_episode_order">Episodensortierung</string>
   <string name="morphe_series_tracker_playlist_order">Playlist-Sortierung</string>
   <string name="morphe_series_tracker_reverse_order">Playlist-Reihenfolge umkehren</string>
+  <string name="morphe_series_tracker_view_count">%s Aufrufe</string>
   <string name="morphe_series_tracker_view_count_one">%s Aufruf</string>
   <string name="morphe_series_tracker_completion_title">Episoden als gesehen markieren</string>
   <string name="morphe_series_tracker_completion_summary">Mindestens %1$s%% angesehen, wobei höchstens noch 90 Sekunden übrig sind, oder %2$s Sekunden Restzeit</string>

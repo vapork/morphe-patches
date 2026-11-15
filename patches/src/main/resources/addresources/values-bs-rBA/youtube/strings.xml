@@ -1128,6 +1128,8 @@ Da biste prikazali meni 'Audio Track', promijenite 'Spoof video streams' na bilo
   <string name="morphe_disable_fullscreen_ambient_mode_title">Onemogući Ambient režim u punom ekranu</string>
   <string name="morphe_enhanced_ambient_mode_title">Poboljšani Ambient režim</string>
   <string name="morphe_enhanced_ambient_mode_summary">Osvjetljava cijelu stranicu za gledanje i crne trake bojama videozapisa, umjesto Ambient režima</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Jačina svjetla</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Koliko je svjetlo jako na stranici sata i crnim trakama</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Održi tekst čitljivim</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Prigušuje svjetlost na svijetlim videozapisima kako bi tekst na stranici ostao čitljiv</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Zatamni prilikom skrolovanja</string>

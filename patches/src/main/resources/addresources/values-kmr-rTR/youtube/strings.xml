@@ -1129,6 +1129,8 @@ Ji bo nîşandana menûya 'Audio Track', 'Spoof video streams' biguherîne her c
   <string name="morphe_disable_fullscreen_ambient_mode_title">Moda ambient di tam-ekranê de asteng bike</string>
   <string name="morphe_enhanced_ambient_mode_title">Moda Ambient a pêşkeftî</string>
   <string name="morphe_enhanced_ambient_mode_summary">Li şûna moda Ambient, hemû rûpela temaşe û şirîtên reş bi vîdyoyê ronî dike</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Hêza ronahiyê</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Hêza ronahiyê li ser rûpelê saetê û çuonên reş çiqas xurt be</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Têkst xwendinê hêsan bihêle</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Ronahiya vîdyoyên ronî kêm dike da ku têksta li ser rûpelê xwendinê hêsan be</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Tarikirinê dema xwendinê</string>

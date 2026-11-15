@@ -1129,6 +1129,8 @@ Second \"item\" text"</string>
   <string name="morphe_disable_fullscreen_ambient_mode_title">ປິດໂໝດ Ambient ໃນໜ້າຈໍເຕັມ</string>
   <string name="morphe_enhanced_ambient_mode_title">ໂໝດ Ambient ທີ່ປັບປຸງໃໝ່</string>
   <string name="morphe_enhanced_ambient_mode_summary">ເຮັດໃຫ້ໜ້າເບິ່ງວິດີໂອທັງໝົດ ແລະ ແຖບສີດຳມີແສງຕາມວິດີໂອ ເພື່ອໃຊ້ແທນໂໝດ Ambient</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">ຄວາມເຂັ້ມຂອງແສງ</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">ຄວາມເຂັ້ມຂອງແສງໃນໜ້າໂມງ ແລະ ແຖບສີດຳ</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">ຮັກສາໃຫ້ຂໍ້ຄວາມອ່ານໄດ້ງ່າຍ</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">ຫຼຸດແສງໃນວິດີໂອທີ່ມີຄວາມສະຫວ່າງຫຼາຍ ເພື່ອໃຫ້ຂໍ້ຄວາມໃນໜ້າຍັງຄົງອ່ານໄດ້ງ່າຍ</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">ຫຼຸດແສງໃນຂະນະທີ່ເລື່ອນ</string>

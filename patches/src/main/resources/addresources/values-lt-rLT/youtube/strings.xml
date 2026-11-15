@@ -1128,6 +1128,8 @@ Kad būtų rodomas meniu „Garso takelis“, parinktyje „Maskuoti vaizdo įra
   <string name="morphe_disable_fullscreen_ambient_mode_title">Išjungti aplinkos režimą visame ekrane</string>
   <string name="morphe_enhanced_ambient_mode_title">Pat stipendizuotas aplinkos režimas</string>
   <string name="morphe_enhanced_ambient_mode_summary">Apšviečia visą peržiūros puslapį ir juostas vaizdo įrašo spalvomis vietoj aplinkos režimo</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Šviesos intensyvumas</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Kokia šviesos intensyvumas yra laikročio puslapyje ir juostose</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Išlaikyti teksto įskaitomumą</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Pridimsta šviesą ryškiuose vaizdo įrašuose, kad puslapio tekstas išliktų įskaitomas</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title"> Prismenkit skroluojant</string>

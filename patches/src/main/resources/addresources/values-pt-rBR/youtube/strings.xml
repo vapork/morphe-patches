@@ -1129,6 +1129,8 @@ Para mostrar o menu 'Faixa de áudio', altere 'Simular streams de vídeo' para q
   <string name="morphe_disable_fullscreen_ambient_mode_title">Desativar Iluminação cinematográfica em tela cheia</string>
   <string name="morphe_enhanced_ambient_mode_title">Modo de Iluminação cinematográfica aprimorado</string>
   <string name="morphe_enhanced_ambient_mode_summary">Ilumina toda a página de exibição e as barras pretas com o vídeo, em substituição ao modo de Iluminação cinematográfica</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Intensidade da luz</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">A intensidade da luz na página do relógio e nas barras pretas</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Manter texto legível</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Diminui a luz em vídeos brilhantes para que o texto na página permaneça legível</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Escurecer ao rolar</string>

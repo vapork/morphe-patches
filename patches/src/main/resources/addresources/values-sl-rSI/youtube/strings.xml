@@ -1128,6 +1128,8 @@ Za prikaz menija 'Audio Track' spremenite 'Spoofanje video tokov' v katerega kol
   <string name="morphe_disable_fullscreen_ambient_mode_title">Onemogočite način Ambient v polnem zaslonu</string>
   <string name="morphe_enhanced_ambient_mode_title">Izboljšan okoljski način</string>
   <string name="morphe_enhanced_ambient_mode_summary">Namesto okoljskega načina osvetli celotno stran s posnetkom in črne robove z videoposnetkom</string>
+  <string name="morphe_enhanced_ambient_mode_strength_title">Jakost luči</string>
+  <string name="morphe_enhanced_ambient_mode_strength_summary">Koliko je luč močna na strani ure in na črnih vrsticah</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_title">Ohrani berljivost besedila</string>
   <string name="morphe_enhanced_ambient_mode_readable_text_summary">Zniža svetlost pri svetlih videoposnetkih, da ostane besedilo na strani berljivo</string>
   <string name="morphe_enhanced_ambient_mode_dim_while_scrolling_title">Zatemni pri pomikanju</string>
